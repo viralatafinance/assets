@@ -1,0 +1,11 @@
+{
+    "name": "ViralataSwap Token",
+    "website": "https://viralata.finance/",
+    "description": "1st Brazilian DeFi token of compound interest and expansionary liquidity",
+    "explorer": "https://bscscan.com/token/0x8d9A79314c4e09A7c53C124195cAeB8B89F4879D",
+    "type": "BEP20",
+    "symbol": "AURO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8d9A79314c4e09A7c53C124195cAeB8B89F4879D"
+}
