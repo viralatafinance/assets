@@ -1,0 +1,11 @@
+{
+    "name": "Caramel Swap",
+    "website": "https://caramelswap.finance",
+    "description": "CaramelSwap.finance - 3° generation Yield Farm on Binance Smart Chain",
+    "explorer": "https://bscscan.com/token/0x7D5bc7796fD62a9A27421198fc3c349B96cDD9Dc",
+    "type": "BEP20",
+    "symbol": "MEL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7D5bc7796fD62a9A27421198fc3c349B96cDD9Dc"
+}
